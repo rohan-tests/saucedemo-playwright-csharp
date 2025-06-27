@@ -1,3 +1,4 @@
+⚠️ Note: This project was originally uploaded from another GitHub account which has now been deactivated. Re-uploaded here for portfolio continuity.
 # ⚡ Playwright C# – SauceDemo Automation
 
 This project automates the same test scenarios on [saucedemo.com](https://www.saucedemo.com) using **Playwright for .NET**.
@@ -23,4 +24,4 @@ dotnet test
 
 ## 📁 Notes
 - Includes `.gitignore` for reports, binaries, and traces
-- Part of a comparison study with Selenium - [Selenium repo here](https://github.com/rohanash18/saucedemo-selenium-csharp.git)
+- Part of a comparison study with Selenium - [Selenium repo here](https://github.com/rohan-tests/saucedemo-selenium-csharp.git)
